@@ -1,0 +1,89 @@
+#wrapper{
+	width: 970px;
+	background-color: rgb(4, 9, 77);
+	padding: 5px;
+}
+
+.topbar{
+	display: block;
+	background-color: rgb(204, 19, 19);
+	border-radius: 10px;
+	margin: 10px;
+	padding: 1px;
+	
+}
+
+.sidebar{
+	display: inline-block;
+	background-color:rgb(31, 106, 182);
+	width: 170px;
+	border-radius: 25px;	
+	margin-left: 5px;
+	margin-right: 10px;
+	vertical-align: top;
+}
+
+.mainbox{
+	display: inline-block;
+	width: 768px;
+	background-color:rgb(1, 1, 19);
+	border-radius: 25px;
+	margin-bottom: 10px;
+}
+
+.bottombar{
+	display: block;
+	background-color: gray;
+	height: 35px;
+	border-radius: 25px;
+	padding: 1px;
+	font-size: small;
+}
+
+h1{
+	color: skyblue;
+	margin-left: 10px;
+	font-size: 27px;
+}
+
+.sidetext{
+	color: turquoise;
+	text-decoration: underline;
+	margin-top: 10px;
+	margin-left: 10px;
+	font-size: small;
+}
+
+.maintext{
+	color: skyblue;
+	margin-right: 5px;
+	font-size: small;
+}
+
+.bottomtext{
+	color: skyblue;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.label{
+	color: turquoise;
+	text-decoration: underline;
+}
+
+.example{
+	color: blue;
+}
+
+#paragraph1{
+	margin-left: 24px;
+}
+
+.sidelist1{
+	margin-left: -25px;
+	margin-top: 0px;
+}
+
+.sidelist2{
+	margin-left: -30px;
+}
